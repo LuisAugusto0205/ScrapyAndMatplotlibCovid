@@ -1,0 +1,3 @@
+[
+{"Local": "World", "Continents": [{"Local": "Asia", "cases": 21175778, "Death": 344580, "Recovered": 19678234}, {"Local": "Europe", "cases": 25022472, "Death": 571472, "Recovered": 13455056}, {"Local": "North America", "cases": 24994492, "Death": 536560, "Recovered": 15457984}, {"Local": "South America", "cases": 13581138, "Death": 369952, "Recovered": 12194583}, {"Local": "Africa", "cases": 2931703, "Death": 69994, "Recovered": 2408353}, {"Local": "Oceania", "cases": 48785, "Death": 1066, "Recovered": 33609}], "Cases": 87754368, "Death": 1893624, "Recovered": 63227819}
+]
