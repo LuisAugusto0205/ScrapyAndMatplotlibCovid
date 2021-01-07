@@ -1,2 +1,2 @@
-scrapy
-matplotlib
+scrapy==2.4.1
+matplotlib==3.3.3
