@@ -6,16 +6,18 @@ Requirementos
 ============
 
 * Python 3
-* scrapy 2.4.1
-* matplotlib 3.3.3
+* scrapy
+* matplotlib
 
 Instalar Requerimentos
 =======
+Caso você precise instalar o scrapy, use o seguinte comando::
 
-Escreva no seu terminal o comando::
+    pip install scrapy
 
-    pip install -r requeriments.txt
-
+Caso você precise instalar o matplotlib, use o seguinte comando::
+    
+    pip install matplotlib
 
 Extrair dados sobre covid19
 =======
